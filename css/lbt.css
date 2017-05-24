@@ -1,0 +1,69 @@
+@font-face {font-family: 'iconfont';
+    src: url('../font/iconfont.eot'); /* IE9*/
+    src: url('../font/iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../font/iconfont.woff') format('woff'), /* chrome、firefox */
+    url('../font/iconfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('../font/iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+.promo{
+    width: 1005px;
+    height: 455px;
+    /*border: 3px solid #000;*/
+	margin:0px auto;
+    position: relative;
+    overflow: hidden;
+}
+.promo ul{
+    width: 6033px;
+    background-color: #00ffff;
+    position: absolute;
+    top:0;
+    left: 0;
+}
+.promo ul li{
+    float: left;
+}
+.promo ol{
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    background-color: rgba(255,255,255,0.3);
+    left: 510px;
+    border-radius: 7.5px;
+}
+.promo ol li{
+    width: 9px;
+    height: 9px;
+    background-color: #b7b7b7;
+    margin: 2px;
+    float: left;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.promo ol li.current{
+    background-color: #ffa30a;
+}
+.promo i{
+    font-family: iconfont;
+    position: absolute;
+    top: 190px;
+    width: 50px;
+    height: 100px;
+    background-color: rgba(0,0,0,0.5);
+    color: #fff;
+    font-style: normal;
+    text-align: center;
+    line-height: 100px;
+    font-size: 28px;
+    cursor: pointer;
+    display: none;
+}
+.promo i.left{
+    left: 5px;
+}
+.promo i.right{
+    right: 5px;
+}
+li{
+    list-style: none;
+}

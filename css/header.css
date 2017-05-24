@@ -1,0 +1,33 @@
+a, address, b, big, blockquote, body, cite, code, dd, del, div, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, label, legend, li, ol, p, pre, small, span, strong, u, ul, var{margin: 0;padding: 0;}
+			a{text-decoration: none;color:#000;}
+			a:hover{text-decoration: none;color:orange;}
+			#welcome{ width: 100%;height: 30px;line-height: 30px;background: #F8F8F8;}
+			#welcome li {float: left;height: 30px;padding: 0 8px;}
+			.w{margin: 0px auto;background: #F8F8F8;width:950px;}
+			.w ul{list-style: none;font-size: 10px;font-family: '微软雅黑'}
+			.fr li{width:60px;}
+			.fl{float: left;}
+			.fr{float: right;}
+			.shuru{border:2px solid orange;width:400px;height: 35px;font-size: 14px;}
+			.souk{background-color:orange;color:#fff;width:100px;height:41px;line-height:41px;text-align:center;position:absolute;top:0px;left:400px;font-size:16px;font-weight: 600;font-family: '华康少女文字W5(P)';cursor: pointer;}
+			.imgdiv{float:left;height:80px;width:300px;text-align:center;}
+			.ssk{float:left;height:80px;margin:0px auto;text-align:center;}
+			.gouwu{float:left;height:40px;width:160px;text-align:center;margin-top: 20px;background-color: #F9F9F9;border:1px solid #ccc;position:absolute;right:30px;border-radius: 8px;}
+			.gouwu span{font-size: 14px;font-family: '微软雅黑';position:relative;bottom:10px;}
+
+			.ding{background-color:#F1F1F1;width:80px;text-align:center;border:1px solid #bbb;border-top:0px;position:relative;z-index:10;}
+			.myy{background-color:#F1F1F1;width:250px;text-align:center;border:1px solid #bbb;border-top:0px;position:relative;z-index:10;}
+			.ke{background-color:#F1F1F1;width:110px;text-align:center;border:1px solid #bbb;border-top:0px;position:relative;z-index:10;}
+			.yiy{background-color:#F1F1F1;width:80px;text-align:center;border:1px solid #bbb;border-top:0px;position:relative;z-index:10}
+
+			.kk{position: relative;display: inline-block;margin-top:20px;}
+			.myziliao td{width:80px;text-align: center;}
+			.myziliao td span{color: #f00;}
+			.myfuwu td{width:80px;text-align: center;}
+
+			.daohang li{list-style:none;float: left;width:80px;height: 40px;text-align: center;line-height: 48px;margin-right: 10px;font-size: 16px;font-family: '微软雅黑';color:#f60;cursor: pointer;}
+			.daohang #li1{text-indent: 1em;margin-left: 20px;color:#fff;width: 220px;text-align: left;height: 46px;background-image: -webkit-gradient(linear, right top, left bottom, color-stop(0, orange),color-stop(0.7, #F4653D));}
+			.fenlei p{background-color: orange;position:relative;z-index:10;height: 33px;line-height: 33px;font-size: 14px;}
+			.xiangxi{color:#000;position:absolute;top:157px;left:240px;border:1px solid #ccc;width:500px;height:463px;border-top:0px;border-left:0px;z-index:12;background-color: rgba(255,255,255,0.7);}
+			hr{border:1px solid orange;}
+			
